@@ -1,18 +1,22 @@
 # tucowsstorm
 
-This template should help get you started developing with Vue 3 in Vite.
+Storm is a Vue application includes a mobile friendly product dashboard with a sortable table, search, and modals.
 
-## Recommended IDE Setup
+## Prerequisites
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Node.js v14 or higher
+- npm or yarn
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## Project Setup
+
+Clone the [repository](https://github.com/amandalonestar8/tucows-storm), navigate to your local project directory, and install dependencies
 
 ## Project Setup
 
 ```sh
+git clone https://github.com/amandalonestar8/tucows-storm
+cd tucows-storm
 npm install
 ```
 
